@@ -1,0 +1,23 @@
+The sequence of code notebooks to be run are:
+1. Data Gathering
+2. Training data EDA and Topic Modelling
+3. Test data analysis
+4. Keyword Analysis
+
+Note: All the gathered tweets were in json format. 
+The folder containing raw data on my system is extremely large due to which it will take atleast 4 hours 
+to copy to another folder.
+
+For analysis the tweets were compiled into a .csv file for each brand. 
+
+Condensed data folder contains the .csv files used for analysis.
+
+Please note: Since the number of tweets collected is extremely high,
+if analysis was to be reproduced with raw data, the time taken to condense it would be extremely high 
+(It took me 3 and a half hours).
+
+Hence, to save time, since analysis is to be reproduced with condensed data, please skip step 3 in the Data Gathering notebook.
+
+Do change the source and destination addresses according to your system address.
+
+ 
